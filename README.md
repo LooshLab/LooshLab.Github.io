@@ -62,8 +62,8 @@ Welcome to **[Loosh Lab]**, the cutting-edge research division of Warp Industrie
 ## **Contact Us**
 
 For inquiries, collaborations, or more information, please reach out:
-- **Email:** [info@warp-researchlabs.com](mailto:info@warp-researchlabs.com)
-- **Website:** [warp-researchlabs.com](https://warp-researchlabs.com)
+- **Email:** 
+- **Website:** 
 
 ---
 
@@ -80,9 +80,9 @@ This project and all associated intellectual property are protected under [appli
 
 ## **Follow Us**
 Stay updated on our latest discoveries and innovations:
-- **GitHub:** [Warp Research Labs GitHub](https://github.com/Warp-Research-Labs)
-- **Twitter:** [@WarpLabs](https://twitter.com/WarpLabs)
-- **LinkedIn:** [Warp Research Labs](https://linkedin.com/company/warplabs)
+- **GitHub:** 
+- **Twitter:** 
+- **LinkedIn:**
 
 ---
 
